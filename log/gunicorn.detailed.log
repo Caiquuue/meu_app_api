@@ -1,0 +1,49 @@
+[2023-09-24 18:31:20,885] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000 (Press CTRL+C to quit) - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:31:20,902] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:47,556] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000 (Press CTRL+C to quit) - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:47,572] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:57,392] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:33:57] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:57,426] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:33:57] "[32mGET /openapi HTTP/1.1[0m" 308 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:57,439] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:33:57] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:57,560] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:33:57] "GET /openapi/static/images/rapidoc.svg HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:57,560] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:33:57] "GET /openapi/static/images/redoc.svg HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:57,560] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:33:57] "GET /openapi/static/images/swagger.svg HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:33:57,576] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:33:57] "GET /openapi/static/images/apidoc.svg HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:03,679] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:03] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:03,707] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:03] "GET /openapi/static/css/swagger-ui.css HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:03,707] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:03] "GET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:03,707] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:03] "GET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:03,864] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:03] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:03,965] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:03] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:34,077] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:34] "GET /profissionais HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:34,082] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:34] "GET /conhecimentos HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:50,198] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:50] "POST /profissional HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:50,214] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:50] "GET /profissionais HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:52,095] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:52] "GET /conhecimentoPorID?id_profissional=1 HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:57,525] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:57] "POST /conhecimento HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:34:58,838] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:34:58] "GET /conhecimentos HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-24 18:35:01,284] INFO _log() L224  127.0.0.1 - - [24/Sep/2023 18:35:01] "GET /profissional?nome=testes HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:05:35,558] INFO _log() L224   * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.37:5000 (Press CTRL+C to quit) - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:05:35,558] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:05:57,555] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:05:57] "GET /profissionais HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:05:57,555] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:05:57] "GET /conhecimentos HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:05:57,570] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:05:57] "GET /conhecimentoPorID?id_profissional=1 HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:06:23,687] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:06:23] "GET /profissional?nome=testes HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:07:18,226] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:07:18] "GET /profissionais HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:07:18,227] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:07:18] "GET /conhecimentos HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:07:18,252] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:07:18] "GET /conhecimentoPorID?id_profissional=1 HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:12:29,912] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:12:29] "GET /profissionais HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:12:29,918] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:12:29] "GET /conhecimentos HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:12:29,940] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:12:29] "GET /conhecimentoPorID?id_profissional=1 HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:14:40,638] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:14:40] "GET /profissionais HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:14:40,641] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:14:40] "GET /conhecimentos HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-09-27 09:14:40,663] INFO _log() L224  127.0.0.1 - - [27/Sep/2023 09:14:40] "GET /conhecimentoPorID?id_profissional=1 HTTP/1.1" 200 - - call_trace=C:\Users\caaiq\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
